@@ -18,9 +18,15 @@ Tenho interesse em programação, banco de dados e suporte de TI. Venho construi
 
 ## Projetos em destaque
 
+### [Inventário de TI em C++](https://github.com/EduardoFae210/inventario-ti-cpp)
+
 Aplicação de terminal para cadastrar, listar, buscar, filtrar e atualizar o status de equipamentos, construída com funções, arrays fixos, validação de entradas e lógica básica em C++.
 
+### [Portfólio Pessoal V2](https://github.com/EduardoFae210/portfolio-pessoal-v2)
+
 Portfólio responsivo com modo claro e escuro, apresentação de projetos e publicação pelo GitHub Pages.
+
+### [Helpdesk Dashboard](https://github.com/EduardoFae210/helpdesk-dashboard)
 
 Projeto web básico de um painel de chamados, desenvolvido para praticar HTML, CSS e JavaScript.
 
@@ -35,5 +41,7 @@ Projeto web básico de um painel de chamados, desenvolvido para praticar HTML, C
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/eduardofaezanchet/)
-- E-mail - eduardofae21@gmail.com
+
+- [E-mail](mailto:eduardofae21@gmail.com)
+
 - Passo Fundo, RS, Brasil
