@@ -7,5 +7,7 @@ Entre meus projetos, desenvolvo um Inventário de TI em C++ para praticar funç�
 Tenho inglês intermediário-avançado, com boa leitura técnica e compreensão de conteúdo em inglês. Busco oportunidades de estágio ou entrada em desenvolvimento, suporte de TI, banco de dados ou TI generalista, com disponibilidade nos turnos da manhã e da tarde.
 
 📍 Passo Fundo - RS | Presencial, híbrido ou remoto
+
 🔗 GitHub: github.com/EduardoFae210
+
 🔗 Portfólio: eduardofae210.github.io/portfolio-pessoal-v2/
