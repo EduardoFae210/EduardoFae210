@@ -2,33 +2,38 @@
 
 Estudante do **2º semestre de Ciência da Computação na Universidade de Passo Fundo (UPF)**, em busca da primeira oportunidade profissional em Tecnologia da Informação.
 
-Tenho interesse em **desenvolvimento de software, desenvolvimento web, QA/testes e suporte técnico**. Atualmente estudo e desenvolvo projetos com Python, HTML, CSS, JavaScript, Git, SQL e Linux.
+Tenho interesse em programação, banco de dados e suporte de TI. Venho construindo uma base prática por meio dos estudos e de projetos compatíveis com o meu nível atual.
 
-## Tecnologias e ferramentas
+## Conhecimentos atuais
 
-- **Linguagens:** Python, JavaScript, HTML e CSS
-- **Dados:** SQL e SQLite
-- **Ferramentas:** Git, GitHub e VS Code
-- **Ambientes:** Linux e Windows
-- **Interesses:** desenvolvimento, automação, QA e suporte de TI
+- **C++ — básico sólido:** lógica, funções, arrays, condicionais, laços e passagem de parâmetros por referência.
+- **Python — básico sólido, atualmente um pouco enferrujado:** lógica, funções, listas e dicionários.
+- **SQL e PostgreSQL — básico sólido:** modelagem conceitual, lógica e física, chaves primárias e estrangeiras, `CREATE TABLE`, `SELECT`, `WHERE`, `INSERT`, `UPDATE`, `DELETE` e `JOIN` básico.
+- **Git e GitHub — básico:** versionamento e organização de repositórios.
+- **HTML, CSS e JavaScript — básico, atualmente enferrujado:** conhecimentos adquiridos em estudos e projetos web.
+- **Linux — muito básico:** uso inicial do terminal e do ambiente.
+- **Hardware e suporte:** montagem de desktop, instalação do Windows e de drivers, RAM, BIOS/UEFI, periféricos e diagnóstico básico.
+- **Inglês:** intermediário-avançado.
+- **Excel:** básico funcional.
 
 ## Projetos em destaque
 
-### [Portfólio Pessoal V2](https://github.com/EduardoFae210/portfolio-pessoal-v2)
-Portfólio responsivo com modo claro/escuro, apresentação de projetos e publicação pelo GitHub Pages.
+### [Inventário de TI em C++](https://github.com/EduardoFae210/inventario-ti-cpp)
+Aplicação de terminal para cadastrar, listar, buscar e atualizar o status de equipamentos, construída com funções e arrays de tamanho fixo.
 
-### [Job Tracker Python](https://github.com/EduardoFae210/job-tracker-python)
-Aplicação de terminal em Python e SQLite para organizar candidaturas, atualizar status, visualizar estatísticas e exportar dados.
+### [Portfólio Pessoal V2](https://github.com/EduardoFae210/portfolio-pessoal-v2)
+Portfólio responsivo com modo claro e escuro, apresentação de projetos e publicação pelo GitHub Pages.
 
 ### [Helpdesk Dashboard](https://github.com/EduardoFae210/helpdesk-dashboard)
-Sistema web de chamados de suporte com filtros, indicadores, persistência no navegador e plano de testes.
+Projeto web básico de um painel de chamados, desenvolvido para praticar HTML, CSS e JavaScript.
 
 ## Atualmente
 
-- Cursando Ciência da Computação na UPF
-- Aprimorando Python, desenvolvimento web, SQL e Git
-- Disponível para trabalhar de manhã e à tarde
-- Aberto a oportunidades presenciais em Passo Fundo ou remotas
+- cursando Ciência da Computação na UPF;
+- estudando C++, programação, SQL/PostgreSQL e Git;
+- mantendo Power BI como interesse para aprendizado futuro, não como habilidade atual;
+- disponível para trabalhar de manhã e à tarde;
+- aberto a oportunidades presenciais em Passo Fundo ou remotas.
 
 ## Contato
 
