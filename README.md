@@ -1,13 +1,39 @@
-Sou estudante do 2º semestre de Ciência da Computação na Universidade de Passo Fundo (UPF) e estou buscando minha primeira oportunidade profissional em Tecnologia da Informação.
+# Olá, eu sou o Eduardo Faé Zanchet 👋
 
-Atualmente, venho fortalecendo minha base em C++, lógica de programação, SQL/PostgreSQL e Git. Também tenho conhecimentos em Python e desenvolvimento web, além de experiência prática com montagem e configuração de desktops, instalação de Windows e drivers, BIOS/UEFI, memória RAM, periféricos e diagnóstico básico de hardware.
+Estudante do **2º semestre de Ciência da Computação na Universidade de Passo Fundo (UPF)**, em busca da primeira oportunidade profissional em Tecnologia da Informação.
 
-Entre meus projetos, desenvolvo um Inventário de TI em C++ para praticar funções, arrays, validação de entradas, buscas e filtros. Também mantenho um portfólio pessoal e um projeto web de Helpdesk publicados no GitHub.
+Tenho interesse em programação, banco de dados e suporte de TI. Venho construindo uma base prática por meio dos estudos e de projetos compatíveis com o meu nível atual.
 
-Tenho inglês intermediário-avançado, com boa leitura técnica e compreensão de conteúdo em inglês. Busco oportunidades de estágio ou entrada em desenvolvimento, suporte de TI, banco de dados ou TI generalista, com disponibilidade nos turnos da manhã e da tarde.
+## Conhecimentos atuais
 
-📍 Passo Fundo - RS | Presencial, híbrido ou remoto
+- **C++ — básico sólido:** lógica, funções, arrays, condicionais, laços e passagem de parâmetros por referência.
+- **Python — básico sólido, atualmente um pouco enferrujado:** lógica, funções, listas e dicionários.
+- **SQL e PostgreSQL — básico sólido:** modelagem conceitual, lógica e física, chaves primárias e estrangeiras, `CREATE TABLE`, `SELECT`, `WHERE`, `INSERT`, `UPDATE`, `DELETE` e `JOIN` básico.
+- **Git e GitHub — básico:** versionamento e organização de repositórios.
+- **HTML, CSS e JavaScript — básico, atualmente enferrujado:** conhecimentos adquiridos em estudos e projetos web.
+- **Linux — muito básico:** uso inicial do terminal e do ambiente.
+- **Hardware e suporte:** montagem de desktop, instalação do Windows e de drivers, RAM, BIOS/UEFI, periféricos e diagnóstico básico.
+- **Inglês:** intermediário-avançado.
+- **Excel:** básico funcional.
 
-🔗 GitHub: github.com/EduardoFae210
+## Projetos em destaque
 
-🔗 Portfólio: eduardofae210.github.io/portfolio-pessoal-v2/
+Aplicação de terminal para cadastrar, listar, buscar, filtrar e atualizar o status de equipamentos, construída com funções, arrays fixos, validação de entradas e lógica básica em C++.
+
+Portfólio responsivo com modo claro e escuro, apresentação de projetos e publicação pelo GitHub Pages.
+
+Projeto web básico de um painel de chamados, desenvolvido para praticar HTML, CSS e JavaScript.
+
+## Atualmente
+
+- cursando Ciência da Computação na UPF;
+- estudando C++, programação, SQL/PostgreSQL e Git;
+- mantendo Power BI como interesse para aprendizado futuro, não como habilidade atual;
+- disponível para trabalhar de manhã e à tarde;
+- aberto a oportunidades presenciais em Passo Fundo ou remotas.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/eduardofaezanchet/)
+- E-mail
+- Passo Fundo, RS, Brasil
