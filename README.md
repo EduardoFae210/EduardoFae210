@@ -35,5 +35,5 @@ Projeto web básico de um painel de chamados, desenvolvido para praticar HTML, C
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/eduardofaezanchet/)
-- E-mail
+- [E-mail](eduardofae21@gmail.com)
 - Passo Fundo, RS, Brasil
