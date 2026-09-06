@@ -18,6 +18,10 @@ Tenho interesse em programação, banco de dados e suporte de TI. Venho construi
 
 ## Projetos em destaque
 
+### [Tech Store System](https://github.com/EduardoFae210/tech-store-system)
+
+Sistema acadêmico de gerenciamento de uma loja de informática. A aplicação principal em **C++** permite cadastrar produtos e clientes, controlar e repor estoque, buscar e ordenar produtos e registrar vendas com múltiplos itens e validação de estoque. O projeto também inclui modelagem e implementação de banco de dados em **PostgreSQL/SQL** e um protótipo visual em **HTML, CSS e JavaScript**.
+
 ### [Inventário de TI em C++](https://github.com/EduardoFae210/inventario-ti-cpp)
 
 Aplicação de terminal para cadastrar, listar, buscar, filtrar e atualizar o status de equipamentos, construída com funções, arrays fixos, validação de entradas e lógica básica em C++.
