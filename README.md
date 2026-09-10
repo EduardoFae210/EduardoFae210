@@ -20,29 +20,6 @@
 
 ---
 
-## `> whoami`
-
-Sou estudante do **2º semestre de Ciência da Computação na Universidade de Passo Fundo (UPF)**. Minha forma favorita de aprender é construir: cada novo conceito vira uma funcionalidade, cada exercício vira repertório e cada projeto registra uma etapa real da minha evolução.
-
-Hoje, concentro meus estudos em **C++**, **algoritmos**, **modelagem de dados**, **SQL** e **PostgreSQL**. Também tenho experiência prática com suporte de TI, hardware e desenvolvimento web.
-
-```text
-LOCALIZAÇÃO    Passo Fundo, RS, Brasil
-FOCO ATUAL     C++ · Algoritmos · SQL · PostgreSQL
-MÉTODO         Aprender → Construir → Testar → Documentar
-OBJETIVO       Primeira oportunidade de estágio em Tecnologia
-```
-
-## Em construção
-
-### AlgoTrack — transformar estudo em dados
-
-Meu próximo projeto será uma aplicação em **C++ + PostgreSQL** para registrar exercícios de programação, analisar tentativas, identificar conteúdos com maior dificuldade e recomendar o próximo assunto a praticar.
-
-O projeto nasce de um problema real do meu dia a dia e conecta os conteúdos que estou estudando agora: funções, vetores, matrizes, `struct`, ordenação, modelagem relacional, `JOIN`, agregações, `GROUP BY` e `HAVING`.
-
-> Status: **planejamento do produto e da arquitetura**.
-
 ## Projetos que contam minha evolução
 
 <table>
@@ -62,10 +39,10 @@ O projeto nasce de um problema real do meu dia a dia e conecta os conteúdos que
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/EduardoFae210/job-tracker-python">Job Tracker</a></h3>
-      <p>Aplicação CLI criada para acompanhar candidaturas, centralizar informações e tornar a busca por oportunidades mais organizada.</p>
-      <p><strong>Destaques:</strong> CRUD, persistência em SQLite, exportação CSV e testes automatizados.</p>
-      <p><code>Python</code> <code>SQLite</code> <code>CRUD</code> <code>unittest</code></p>
+      <h3><a href="https://github.com/EduardoFae210/turma-track-cpp">TurmaTrack</a></h3>
+      <p>Sistema de terminal para cadastrar alunos, registrar notas e analisar o desempenho de uma turma.</p>
+      <p><strong>Destaques:</strong> funções, struct, vetores, matriz de notas, busca sequencial, Bubble Sort e relatórios.</p>
+      <p><code>C++</code> <code>CLI</code> <code>Vetores</code> <code>Matrizes</code> <code>Algoritmos</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/EduardoFae210/portfolio-pessoal-v2">Portfólio Pessoal</a></h3>
